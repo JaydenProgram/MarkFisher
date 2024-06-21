@@ -1,0 +1,22 @@
+[
+  {"coordinate": {"latitude": 52.370216, "longitude": 4.895168}, "description": "Description 1", "key": 1, "title": "Title 1"},
+  {"coordinate": {"latitude": 51.9225, "longitude": 4.47917}, "description": "Description 2", "key": 2, "title": "Title 2"},
+  {"coordinate": {"latitude": 52.090737, "longitude": 5.12142}, "description": "Description 3", "key": 3, "title": "Title 3"},
+  {"coordinate": {"latitude": 52.229172, "longitude": 5.166897}, "description": "Description 4", "key": 4, "title": "Title 4"},
+  {"coordinate": {"latitude": 53.219384, "longitude": 6.566502}, "description": "Description 5", "key": 5, "title": "Title 5"},
+  {"coordinate": {"latitude": 51.571914, "longitude": 5.390471}, "description": "Description 6", "key": 6, "title": "Title 6"},
+  {"coordinate": {"latitude": 51.441642, "longitude": 5.469722}, "description": "Description 7", "key": 7, "title": "Title 7"},
+  {"coordinate": {"latitude": 52.011578, "longitude": 4.357068}, "description": "Description 8", "key": 8, "title": "Title 8"},
+  {"coordinate": {"latitude": 51.812565, "longitude": 5.837226}, "description": "Description 9", "key": 9, "title": "Title 9"},
+  {"coordinate": {"latitude": 53.201233, "longitude": 5.799913}, "description": "Description 10", "key": 10, "title": "Title 10"},
+  {"coordinate": {"latitude": 51.585253, "longitude": 4.797115}, "description": "Description 11", "key": 11, "title": "Title 11"},
+  {"coordinate": {"latitude": 52.51454, "longitude": 6.092996}, "description": "Description 12", "key": 12, "title": "Title 12"},
+  {"coordinate": {"latitude": 51.697816, "longitude": 5.303675}, "description": "Description 13", "key": 13, "title": "Title 13"},
+  {"coordinate": {"latitude": 52.018557, "longitude": 4.447865}, "description": "Description 14", "key": 14, "title": "Title 14"},
+  {"coordinate": {"latitude": 51.833409, "longitude": 4.134637}, "description": "Description 15", "key": 15, "title": "Title 15"},
+  {"coordinate": {"latitude": 51.974243, "longitude": 5.663862}, "description": "Description 16", "key": 16, "title": "Title 16"},
+  {"coordinate": {"latitude": 53.083333, "longitude": 6.866667}, "description": "Description 17", "key": 17, "title": "Title 17"},
+  {"coordinate": {"latitude": 52.633333, "longitude": 4.75}, "description": "Description 18", "key": 18, "title": "Title 18"},
+  {"coordinate": {"latitude": 51.583333, "longitude": 4.25}, "description": "Description 19", "key": 19, "title": "Title 19"},
+  {"coordinate": {"latitude": 53.2, "longitude": 5.8}, "description": "Description 20", "key": 20, "title": "Title 20"}
+]
